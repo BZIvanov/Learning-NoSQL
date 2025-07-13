@@ -14,3 +14,8 @@ It provides:
 - Abstraction over low-level database operations
 
 ODMs are to NoSQL databases what ORMs are to SQL databases.
+
+## Content of this section
+
+- **Mongoose** - ODM for MongoDB
+- **docker-container-database** - setup database with Docker so you don't have to install MongoDB locally
