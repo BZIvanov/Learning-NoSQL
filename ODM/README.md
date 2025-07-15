@@ -19,3 +19,4 @@ ODMs are to NoSQL databases what ORMs are to SQL databases.
 
 - **Mongoose** - ODM for MongoDB
 - **docker-container-database** - setup database with Docker so you don't have to install MongoDB locally
+- **schema-reference**
