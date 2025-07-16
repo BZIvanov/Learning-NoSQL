@@ -7,4 +7,5 @@ This repository contains learning materials focused on NoSQL databases.
 ## Content of this repository
 
 1. **Introduction** – Overview of NoSQL concepts
-2. **ODM** – Introduction to Object Data Modeling with Mongoose (default ODM used in this repo)
+2. **MongoDB** – Overview of MongoDB concepts
+3. **ODM** – Introduction to Object Data Modeling with Mongoose (default ODM used in this repo)
